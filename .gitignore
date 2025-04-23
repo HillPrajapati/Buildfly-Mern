@@ -1,0 +1,49 @@
+Keyur Prajapati
+12:40 AM
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# Next.js build output (in case you use it in future)
+.next/
+
+# React files
+*.tgz
+.cache/
+.vite/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REACT and VSC config files
+.vscode/
+.DS_Store
+
+# Cover
+hxu-wcus-hku
